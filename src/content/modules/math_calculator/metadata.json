@@ -1,0 +1,7 @@
+{
+	"source" : "extend",
+	"version" : "1.0",
+	"embed" : true,
+	"custom_acl" : ["math_calculator"],
+	"admin_permission" : "math_calculator"
+}

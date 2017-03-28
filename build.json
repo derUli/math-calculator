@@ -1,0 +1,8 @@
+{
+   "id" : "math_calculator",
+   "version" : "1.0",
+   "description" : "This calculator can be used for quick on site calculations. Check http://www.calculator.net/math-calculator.html for a demo of this calculator.",
+   "categories" : ["calculator", "calc", "accessoires"],
+   "compatible_from" : "2017.1",
+   "dependencies" : []
+}
